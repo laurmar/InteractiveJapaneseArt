@@ -1,0 +1,995 @@
+{
+  "nodes": [
+    {
+      "name":"Japanese Four Panel Folding Screen (Landscape with Figure in the Boat)",
+      "isSelected": false,
+      "id": 6,
+      "label": "Japanese Four Panel Folding Screen (Landscape with Figure in the Boat) was created through ink painting on a folding screen. Notice the depth created in the work through the lightening of the ink shades in the background. The left half of the work is busy, full of nature, while the right half is subtle and light with distant mountains and a boat. ",
+      "img":  "./artworks/boat_screen.png",
+      "height": 100,
+      "width": 182,
+      "x": 100,
+      "y": 200
+    },
+ {
+   "name":"Untitled Folding Screen by Kano Yoshinobo",
+   "isSelected": false,
+   "id": 7,
+   "label": "This work is called Untitled Folding Screen by Kano Yoshinobo.  Located in the president's house on Union College Campus, the work is a seasonal nature scene using common nature symbols in japanese culture such as mountains, cherry blossoms, bamboo and cranes. Bamboo symbolizes protection against evil and cranes are a symbol of zen and enlightenment.",
+   "img":  "./artworks/nature_screen.png",
+   "height": 100,
+   "width": 205,
+   "x": 100,
+   "y": 200
+ },
+ {
+   "name":"Untitled Woman by Kuniyoshi Utagawa",
+   "isSelected": false,
+   "id": 8,
+   "label":"Untitled Woman by Kuniyoshi Utagawa is a ukiyo-e print. It displays a woman in elegant dress spending time under a tree with cherry blossoms in the season of spring. The piece is covered in famous Japanese images, including the cherry blossom branch, bell, and lotus flower print on her dress.",
+   "img":  "./artworks/nature_woman.png",
+   "height": 287,
+   "width": 100,
+   "x": 100,
+   "y": 200
+ },
+ {
+   "name":"Untitled Woman by Eisen Ikeda",
+   "isSelected": false,
+   "id": 9,
+   "label": "This piece is an Ukiyo-e style block print on paper called Untitled Woman by Eisen Ikeda. Focusing on the transitory nature of life, the ukiyo-e style often depicts nature and women in beautiful garments, displaying their beauty and fragility. In this piece a woman sensualizes the opening of an umbrella by accentuating her curves and drawing attention to her mouth with cloth. ",
+   "img":  "./artworks/umbrella_lady.png",
+   "height": 300,
+   "width": 100,
+         "x": 100,
+      "y": 200
+ },
+ {
+   "name":"Aka Fuji",
+   "isSelected": false,
+   "id": 1,
+   "label": "This is a reproduction of Aka Fuji by Hokusai Katsushika. Created using color print, it depicts Mount Fuji, the most sacred mountain in Japan in the season of winter. Believed to have religious powers, its image occurs throughout many works of art as a symbol of power, strength and vitality in Japan. Note how the artist draws attention to the mountain by using cool colors for contrast around Mount Fuji. ",
+   "img":  "./artworks/mount_fuji.png",
+   "height": 100,
+   "width": 140,
+         "x": 100,
+      "y": 200
+ },
+ {
+   "name":"Hakone",
+   "isSelected": false,
+   "id": 2,
+   "label": "This piece is Hakone from the Tokaido collection of woodcut prints by Utagawa Hiroshi. Hakone follows a tradition of depicting travellers moving through the Japanese Landscape. This particular set covers the Tokaido road between Edo and Kyoto. Note the flow from the flow between the lower left half of the work and the upper right created by  the movement of the travellers, stream and directionality of the mountains. ",
+   "img":  "./artworks/travelling.png",
+   "height": 147,
+   "width": 100,
+         "x": 100,
+      "y": 200
+ },
+ {
+   "name":"Untitled Mountain Landscape with Buildings",
+   "isSelected": false,
+   "id": 3,
+   "label": "Untitled Mountain Landscape with Buildings by Tani Buncho is designed to make the viewer work their way through the designed space vertically, drawing inspiration from Chinese hanging scrolls of the Tang Period. Depicting layers of mountains, trees, hills and buildings in a colder season, the artist chose to incorporate an incredible amount of depth in the work. ",
+   "img":  "./artworks/hanging_scroll.png",
+   "height": 235,
+   "width": 100,
+    "x": 100,
+    "y": 200
+ },
+ {
+   "name":"Japanese Bowl",
+   "isSelected": false,
+   "id": 4,
+   "label": "This is a ceramic bowl created with off white glaze on dark clay. Extremely simple in form, the interest of the piece lies in the cracks and lighter pieces in the bowl. This bowl most likely broke, losing some of its pieces. Japanese potters will often put back together broken ceramic works using gold and molded clay to elongate the lifespan of a work.",
+  "img":  "./artworks/tea_bowl.png",
+   "height": 100,
+   "width": 116,
+         "x": 100,
+      "y": 200
+ },
+
+{
+   "name":"Japanese Karatsu Jar",
+   "isSelected": false,
+   "id": 5,
+     "label": "This work is Japanese Karatsu Jar, a member of the Robert Fink East Asian Ceramic Collection at Union College. Minimalist in design, key features to note are the cherry blossom branch calligraphy adorning the side of the jar, and the gold set into the lip of the jar. Following damage japanese ceramic workers will often use gold to piece ceramic works back together and fill in holes that develop. ",
+     "img":  "./artworks/decorated_bowl.png",
+   "height": 100,
+   "width": 122,
+        "x": 100,
+      "y": 200
+ }
+  ],
+
+
+
+
+
+
+
+
+
+
+
+
+  "links": [
+
+
+    {
+      "title": "Untitled Folding Screen by Kano Yoshinobo to Untitled Woman by Kuniyoshi Utagawa via context",
+      "isSelected": false,
+      "source": 7,
+      "target": 8,
+      "type": "context",
+      "description": "These works would be brought out in spring or summer as a seasonal piece.",
+      "siblingIndentifier": 0
+},
+
+    {
+      "title": "Untitled Folding Screen by Kano Yoshinobo to Untitled Woman by Kuniyoshi Utagawa via subject matter",
+      "isSelected": false,
+      "source": 7,
+      "target": 8,
+      "type": "subject",
+      "description": "Both of these works represent seasonal nature, specifically they are designed to represent spring and summer activities and scenes.",
+      "siblingIndentifier": 1
+},
+    {
+      "title": "Untitled Folding Screen by Kano Yoshinobo to Untitled Woman by Kuniyoshi Utagawa via symbolism",
+      "isSelected": false,
+      "source": 7,
+      "target": 8,
+      "type": "symbol",
+      "description": "The Untitled Woman and Untitled folding screen contain images of cherry blossoms. A cherished symbol of japanese history, it represents impermanence and mono no aware, which roughly translates to fragility. ",
+      "siblingIndentifier": 2
+},
+
+
+
+
+
+
+    {
+      "title": "Untitled Folding Screen by Kano Yoshinobo to Japanese Karatsu Jar via material",
+      "isSelected": false,
+      "source": 7,
+      "target": 5,
+      "type": "material",
+      "description": "Both of these works utilize gold detailing. Within the screen gold is appearing as detailing in the nature scene, and in the jar gold is placed around the lip of the work to fill in gaps created by age and wear.",
+      "siblingIndentifier": 0
+},
+
+
+    {
+      "title": "Untitled Folding Screen by Kano Yoshinobo to Japanese Karatsu Jar via symbolism",
+      "isSelected": false,
+      "source": 7,
+      "target": 5,
+      "type": "symbol",
+      "description": "These works contain images of cherry blossoms which represents fragility (known as mono no aware) and  impermanence.",
+      "siblingIndentifier": 1
+},
+
+
+
+
+
+
+    {
+      "title": "Untitled Folding Screen by Kano Yoshinobo to Japanese Bowl via material",
+      "isSelected": false,
+      "source": 7,
+      "target": 4,
+      "type": "material",
+      "description": " Both of these works utilize gold detailing. Within the screen gold appears as detailing in the nature scene, and in the bowl gold is used as a binding agent to hold pieces of the bowl together.",
+      "siblingIndentifier": 0
+},
+
+
+
+
+
+    {
+      "title": "Untitled Folding Screen by Kano Yoshinobo to Untitled Mountain Landscape with Buildings by Tani Buncho via symbolism",
+      "isSelected": false,
+      "source": 7,
+      "target": 3,
+      "type": "symbol",
+      "description": "These works contain images of mountains a religious symbol of gods and immortality. Many temples are built around mountains for worshipers to visit and engage in rituals close to religiously important sites.",
+      "siblingIndentifier": 0
+},
+    {
+      "title": "Untitled Folding Screen by Kano Yoshinobo to Untitled Mountain Landscape with Buildings by Tani Buncho via context",
+      "isSelected": false,
+      "source": 7,
+      "target": 3,
+      "type": "context",
+      "description": "The nature screen and Untitled Mountain Landscape with Buildings scroll would be found as seasonal decoration within a Japanese home.",
+      "siblingIndentifier": 1
+},
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "title": "Untitled Folding Screen by Kano Yoshinobo to Hakone via symbolism",
+      "isSelected": false,
+      "source": 7,
+      "target": 2,
+      "type": "symbol",
+      "description": "These works contain images of mountains, a religious symbol of gods and immortality. It is very typical to see temples from various religions placed around mountains as they are considered very sacred to religions across Japan.",
+      "siblingIndentifier": 0
+},
+
+
+
+
+
+
+
+     {
+      "title": "Untitled Folding Screen by Kano Yoshinobo to Aka Fuji by Hokusai Katsushika via subject matter",
+       "isSelected": false,
+      "source": 7,
+      "target": 1,
+      "type": "subject",
+      "description": "Aka Fuji and Untitled Folding Screen by Kano Yoshinobo are examples of seasonal nature works, pieces that exemplify one season over others.",
+       "siblingIndentifier": 0
+},
+        {
+      "title": "Untitled Folding Screen by Kano Yoshinobo to Aka Fuji by Hokusai Katsushika via symbolism",
+          "isSelected": false,
+      "source": 7,
+      "target": 1,
+      "type": "symbol",
+      "description": " These works contain images of mountains. Mountains play an important role in Japanese cultural traditions they serve as religious sites for religions like Shintoism and Buddhism, as well as stand as symbols of immortality and power.",
+          "siblingIndentifier": 1
+},
+
+
+
+
+
+
+
+        {
+      "title": "Untitled Folding Screen by Kano Yoshinobo to Japanese Four Panel Folding Screen (Landscape with Figure in the Boat) via symbolism",
+          "isSelected": false,
+      "source": 7,
+      "target": 6,
+      "type": "symbol",
+      "description": "These works contain images of mountains. Mountains play an important role in Japanese cultural traditions they stand as symbols of immortality and power, along with serving as religious sites for temples and worship.",
+          "siblingIndentifier": 0
+},
+        {
+      "title": "Untitled Folding Screen by Kano Yoshinobo to Japanese Four Panel Folding Screen (Landscape with Figure in the Boat) via material",
+          "isSelected": false,
+      "source": 7,
+      "target": 6,
+      "type": "material",
+      "description": "The two works are both paneled screens designed to be folded across certain parts of the work.",
+          "siblingIndentifier": 1
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "title": "Untitled Woman by Kuniyoshi Utagawa to Japanese Karatsu Jar via symbolism",
+      "isSelected": false,
+      "source": 8,
+      "target": 5,
+      "type": "symbol",
+      "description": "The Untitled Woman print and Japanese Karatsu Jar contain images of cherry blossoms. A cherished symbol of japanese history, it represents impermanence and fragility, known in japan as mono no aware.",
+      "siblingIndentifier": 0
+},
+
+
+
+
+
+
+
+    {
+      "title": "Untitled Woman by Kuniyoshi Utagawa to Japanese Bowl via context",
+      "isSelected": false,
+      "source": 8,
+      "target": 4,
+      "type": "context",
+      "description": "Untitled Woman and Japanese Bowl both are collectors items. The Japanese Bowl would serve as a member of a larger tea set while Untitled Woman would be collected with other works representing beautiful women.",
+      "siblingIndentifier": 0
+},
+
+
+
+
+
+
+    {
+      "title": "Untitled Woman by Kuniyoshi Utagawa to Untitled Mountain Landscape with Buildings by Tani Buncho via subject matter",
+      "isSelected": false,
+      "source": 8,
+      "target": 3,
+      "type": "subject",
+      "description": "These works are examples of man in nature. Untitled Woman displays a lady under a cherry blossom tree and Untitled Mountain Landscape with Buildings contains man made structures nestled within a landscape.",
+      "siblingIndentifier": 0
+},
+    {
+      "title": "Untitled Woman by Kuniyoshi Utagawa to Untitled Mountain Landscape with Buildings by Tani Buncho via context",
+      "isSelected": false,
+      "source": 8,
+      "target": 3,
+      "type": "context",
+      "description": "Both of these works would be hung up in a Japanese home as a seasonal work",
+      "siblingIndentifier": 1
+},
+
+
+
+
+
+    {
+      "title": "Untitled Woman by Kuniyoshi Utagawa to Hakone via subject matter",
+      "isSelected": false,
+      "source": 8,
+      "target": 2,
+      "type": "subject",
+      "description": "Untitled Woman and Hakone display the subject man in nature through their placement of figures within a natural landscape.",
+      "siblingIndentifier": 0
+},
+    {
+      "title": "Untitled Woman by Kuniyoshi Utagawa to Hakone via material",
+      "isSelected": false,
+      "source": 8,
+      "target": 2,
+      "type": "material",
+      "description": "These connected works were both created using block printing on paper.",
+      "siblingIndentifier": 1
+},
+    {
+      "title": "Untitled Woman by Kuniyoshi Utagawa to Hakone via context",
+      "isSelected": false,
+      "source": 8,
+      "target": 2,
+      "type": "context",
+      "description": "Works such as Untitled Woman and Hakone would appear in sets and collections. Untitled Woman would be collected as a member of Ukiyo-e prints of women of varying count. Hakone, however is a member of a set of 53 prints representing the Tokaido route.",
+      "siblingIndentifier": 2
+},
+
+
+
+
+
+
+
+    {
+      "title": "Untitled Woman by Kuniyoshi Utagawa to Aka Fuji by Hokusai Katsushika via material",
+      "isSelected": false,
+      "source": 8,
+      "target": 1,
+      "type": "material",
+      "description": "These connected works were both created using printing. Aka Fuji using color printing and Untitled Woman using block print on rice paper.",
+      "siblingIndentifier": 0
+},
+       {
+      "title": "Untitled Woman by Kuniyoshi Utagawa to Aka Fuji by Hokusai Katsushika via context",
+      "isSelected": false,
+      "source": 8,
+      "target": 1,
+      "type": "context",
+      "description":  "Both of these works would often be collected as members of a larger set of similar work, either of similar subject matter or from the same artist.",
+         "siblingIndentifier": 1
+},
+
+
+
+
+
+
+
+        {
+      "title": "Untitled Woman by Kuniyoshi Utagawa to Japanese Four Panel Folding Screen (Landscape with Figure in the Boat) via subject matter",
+          "isSelected": false,
+      "source": 8,
+      "target": 6,
+      "type": "subject",
+      "description": "These two works display the theme man in nature. Though the scale and placement of the figures differ, both draw attention, creating a conversation between man and nature in the scenes.",
+          "siblingIndentifier": 0
+},
+    {
+      "title": "Untitled Woman by Kuniyoshi Utagawa to Japanese Four Panel Folding Screen (Landscape with Figure in the Boat) via material",
+      "isSelected": false,
+      "source": 8,
+      "target": 6,
+      "type": "material",
+      "description": "Both of these works were created on paper, Untitled woman using block printing and Japanese Four Panel Folding Screen using ink brushwork.",
+      "siblingIndentifier": 1
+},
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "title": "Untitled Woman by Kuniyoshi Utagawa to Untitled Woman by Eisen Ikeda via context",
+      "isSelected": false,
+      "source": 8,
+      "target": 9,
+      "type": "context",
+      "description": "These works and works similar would be collected to create sets of beautiful women prints.",
+      "siblingIndentifier": 0
+},
+    {
+      "title": "Untitled Woman by Kuniyoshi Utagawa to Untitled Woman by Eisen Ikeda via material",
+      "isSelected": false,
+      "source": 8,
+      "target": 9,
+      "type": "material",
+      "description": "These women artworks were created using block printing on rice paper.",
+      "siblingIndentifier": 1
+},
+    {
+      "title": "Untitled Woman by Kuniyoshi Utagawa to Untitled Woman by Eisen Ikeda via subject matter",
+      "isSelected": false,
+      "source": 8,
+      "target": 9,
+      "type": "subject",
+      "description": "Both of these works center on women in beautiful dress, a common subject of the Ukiyo-e print style developed in the Edo Period.",
+      "siblingIndentifier": 2
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "title": "Japanese Karatsu Jar to Japanese Bowl via material",
+      "isSelected": false,
+      "source": 5,
+      "target": 4,
+      "type": "material",
+      "description": "Both works are ceramic works that utilize glaze and gold.",
+      "siblingIndentifier": 0
+},
+
+
+
+
+
+
+
+
+
+
+    {
+      "title": "Japanese Bowl to Hakone via context",
+      "isSelected": false,
+      "source": 4,
+      "target": 2,
+      "type": "context",
+      "description": "Japanese Bowl and Hakone would appear as a member of a larger set, Hakone as a member of 53 works representing the Tokaido road and the Japanese Bowl in a set of other pottery items.",
+      "siblingIndentifier": 0
+},
+
+
+
+
+
+
+    {
+      "title": "Japanese Bowl to Aka Fuji by Hokusai Katsushika via context",
+      "isSelected": false,
+      "source": 4,
+      "target": 1,
+      "type": "context",
+      "description": "Aka Fuji and Japanese Bowl are both items that would be collected. Aka Fuji as a member of 46 prints of Mount Fuji by Hokusai Katsushika and Japanese Bowl as a member of a set of tea items.",      "siblingIndentifier": 0
+},
+
+
+
+
+
+
+
+
+    {
+      "title": "Japanese Bowl to Untitled Woman by Eisen Ikeda via context",
+      "isSelected": false,
+      "source": 4,
+      "target": 9,
+      "type": "context",
+      "description": "Untitled Woman and Japanese Bowl  both are collectors items, often gathered to become a set of beautiful items.",
+      "siblingIndentifier": 0
+},
+
+
+
+
+
+
+
+
+
+
+        {
+      "title": "Aka Fuji by Hokusai Katsushika to Japanese Four Panel Folding Screen (Landscape with Figure in the Boat) via symbolism",
+          "isSelected": false,
+      "source": 1,
+      "target": 6,
+      "type": "symbol",
+      "description": " Both of these works contain images of mountains and evergreens . Mountains represent immortality while also serving as hosts to godly spirits and evergreens are symbols of rebirth and gods descent. ",
+          "siblingIndentifier": 0
+},
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "title": "Aka Fuji by Hokusai Katsushika to Untitled Woman by Eisen Ikeda via context",
+      "isSelected": false,
+      "source": 1,
+      "target": 9,
+      "type": "context",
+      "description": "Untitled Woman and Aka Fuji are both collectible items that would appear in a set. ",
+      "siblingIndentifier": 0
+},
+    {
+      "title": "Aka Fuji by Hokusai Katsushika to Untitled Woman by Eisen Ikeda via material",
+      "isSelected": false,
+      "source": 1,
+      "target": 9,
+      "type": "material",
+      "description": "Both of these works were created through a printing process. ",
+      "siblingIndentifier": 1
+},
+
+
+
+
+
+
+
+
+        {
+      "title": "Untitled Mountain Landscape with Buildings by Tani Buncho to Hakone via symbolism",
+          "isSelected": false,
+      "source": 3,
+      "target": 2,
+      "type": "symbol",
+      "description": "These works contain images of mountains, a symbol of gods and immortality. Temples for worship are dotted around mountains to be close to godly spirits when worshipping. ",
+          "siblingIndentifier": 0
+},
+
+    {
+      "title": "Untitled Mountain Landscape with Buildings by Tani Buncho to Hakone via subject matter",
+      "isSelected": false,
+      "source": 3,
+      "target": 2,
+      "type": "subject",
+      "description": "Hakone and Untitled Mountain Landscape with buildings focus on the theme of man in nature, specifically travelling. Hakone focuses is on travellers while the mountain landscape instead has the viewer travel through the landscape with their eyes.",
+      "siblingIndentifier": 1
+},
+
+
+
+
+    {
+      "title": "Untitled Mountain Landscape with Buildings by Tani Buncho to Aka Fuji by Hokusai Katsushika via symbolism",
+      "isSelected": false,
+      "source": 3,
+      "target": 1,
+      "type": "symbol",
+      "description": "Aka Fuji and Untitled Mountain Landscape with Buildings contain both images of evergreens and mountains. Both of these images are religious symbols with evergreens representing rebirth and gods descent, while mountains are seen as symbols of immortality and hosts to godly spirits.",
+      "siblingIndentifier": 0
+},
+    {
+      "title": "Untitled Mountain Landscape with Buildings by Tani Buncho to Aka Fuji by Hokusai Katsushika via context",
+      "isSelected": false,
+      "source": 3,
+      "target": 1,
+      "type": "context",
+      "description": "These works both represent seasonal works, brought out in winter and displayed within the home. ",
+      "siblingIndentifier": 1
+},
+
+
+
+
+
+
+
+    {
+      "title": "Untitled Mountain Landscape with Buildings by Tani Buncho to Japanese Four Panel Folding Screen (Landscape with Figure in the Boat) via symbolism",
+      "isSelected": false,
+      "source": 3,
+      "target": 6,
+      "type": "symbol",
+      "description": "Japanese Four Panel Folding Screen and Untitled Mountain Landscape with Buildings contain images of evergreens and mountains. Both of these images are religious symbols with evergreens representing rebirth and gods descent, while mountains are seen as symbols of immortality and hosts to godly spirits.",
+      "siblingIndentifier": 0
+},
+
+    {
+      "title": "Untitled Mountain Landscape with Buildings by Tani Buncho to Japanese Four Panel Folding Screen (Landscape with Figure in the Boat) via subject matter",
+      "isSelected": false,
+      "source": 3,
+      "target": 6,
+      "type": "subject",
+      "description": "Untitled Mountain Landscape with Buildings and Japanese Four Panel Folding Screen both depict man within the grandness of nature. The panelled work displays with with putting a man on a lake and the hanging scroll nestles buildings into the natural landscape. ",
+      "siblingIndentifier": 1
+},
+    {
+      "title": "Untitled Mountain Landscape with Buildings by Tani Buncho to Japanese Four Panel Folding Screen (Landscape with Figure in the Boat) via material",
+      "isSelected": false,
+      "source": 3,
+      "target": 6,
+      "type": "material",
+      "description": "Both of these pieces were created with ink as a medium. The hanging scroll was created on silk and the folding screen was designed on paper.",
+      "siblingIndentifier": 2
+},
+
+
+
+
+
+
+
+
+
+    {
+      "title": "Hakone to Aka Fuji by Hokusai Katsushika via symbolism",
+      "isSelected": false,
+      "source": 2,
+      "target": 1,
+      "type": "symbol",
+      "description": "Both of these works contain images of mountains. A common image within Japanese art, mountains represent immortality while also serving as hosts to godly spirits.",
+      "siblingIndentifier": 0
+},
+
+    {
+      "title": "Hakone to Aka Fuji by Hokusai Katsushika via material",
+      "isSelected": false,
+      "source": 2,
+      "target": 1,
+      "type": "material",
+      "description": "Both of these works were created through a printing process.",
+      "siblingIndentifier": 1
+},
+
+    {
+      "title": "Hakone to Aka Fuji by Hokusai Katsushika via context",
+      "isSelected": false,
+      "source": 2,
+      "target": 1,
+      "type": "context",
+      "description": "Hakone and Aka Fuji are both members of larger sets of work created by their artists, Hakone is a member of 53 works displaying Tokaido road and Aka Fuji is part of a 46 print set of images of Mount Fuji.",
+      "siblingIndentifier": 2
+},
+
+
+
+
+
+
+
+
+    {
+      "title": "Hakone to Japanese Four Panel Folding Screen (Landscape with Figure in the Boat) via symbolism",
+      "isSelected": false,
+      "source": 2,
+      "target": 6,
+      "type": "symbol",
+      "description": "These works contain images of mountains.  A symbol of gods and immortality, religious communities have been worshipping near mountains for thousands of years, through the building and maintaining of temples near mountains.",
+      "siblingIndentifier": 0
+},
+
+    {
+      "title": "Hakone to Japanese Four Panel Folding Screen (Landscape with Figure in the Boat) via subject matter",
+      "isSelected": false,
+      "source": 2,
+      "target": 6,
+      "type": "subject",
+      "description": "Both of these works are examples of man in nature, specifically they highlight the movement of man through natural spaces. ",
+      "siblingIndentifier": 1
+},
+    {
+      "title": "Hakone to Japanese Four Panel Folding Screen (Landscape with Figure in the Boat) via material",
+      "isSelected": false,
+      "source": 2,
+      "target": 6,
+      "type": "material",
+      "description": "Japanese Four Panel Folding Screen and Hakone are both works that were created on paper.",
+      "siblingIndentifier": 2
+},
+
+
+
+
+
+    {
+      "title": "Hakone to Untitled Woman by Eisen Ikeda via context",
+      "isSelected": false,
+      "source": 2,
+      "target": 9,
+      "type": "context",
+      "description": "Untitled Woman and Hakone are both collectible items that would appear in a set. Hakone would be collected as a member of 53 prints representing the Tokaido road while Untitled Woman would appear alongside other prints of beautiful women. ",
+      "siblingIndentifier": 0
+},
+    {
+      "title": "Hakone to Untitled Woman by Eisen Ikeda via material",
+      "isSelected": false,
+      "source": 2,
+      "target": 9,
+      "type": "material",
+      "description": "Both of these works are examples of block printing on paper. ",
+      "siblingIndentifier": 1
+},
+
+
+
+
+    {
+      "title": "Japanese Four Panel Folding Screen (Landscape with Figure in the Boat) to Untitled Woman by Eisen Ikeda via material",
+      "isSelected": false,
+      "source": 6,
+      "target": 9,
+      "type": "material",
+      "description": "Japanese Four Panel Folding Screen and Untitled Woman are works set on paper.",
+      "siblingIndentifier": 0
+}
+  ],
+
+
+
+
+
+
+
+
+
+ "boundedlinks": [
+   {
+      "title": "Japanese Four Panel Folding Screen (Landscape with Figure in the Boat) to Untitled Woman by Eisen Ikeda",
+     "isSelected": false,
+      "source": 6,
+      "target": 9,
+      "description": "<p>Material: Japanese Four Panel Folding Screen and Untitled Woman are works set on paper. </p>"
+},
+   {
+      "title": "Hakone to Untitled Woman by Eisen Ikeda",
+     "isSelected": false,
+      "source": 2,
+      "target": 9,
+      "description": "<p>Context: Untitled Woman and Hakone are both collectible items that would appear in a set. Hakone would be collected as a member of 53 prints representing the Tokaido road while Untitled Woman would appear alongside other prints of beautiful women. </p>\n\n<p>Material: Both of these works are examples of block printing on paper. </p>\n"
+},
+   {
+      "title": "Aka Fuji by Hokusai Katsushika to Untitled Woman by Eisen Ikeda",
+     "isSelected": false,
+      "source": 1,
+      "target": 9,
+      "description": "<p>Context: Untitled Woman and Aka Fuji are both collectible items that would appear in a set. </p>\n\n<p>Material: Both of these works were created through a printing process. </p>\n"
+},
+
+   {
+      "title": "Aka Fuji by Hokusai Katsushika to Japanese Four Panel Folding Screen (Landscape with Figure in the Boat)",
+     "isSelected": false,
+      "source": 1,
+      "target": 6,
+      "description": "<p>Symbol: Both of these works contain images of mountains and evergreens . Mountains represent immortality while also serving as hosts to godly spirits and evergreens are symbols of rebirth and gods descent. </p>"
+   },
+
+   {
+      "title": "Hakone to Japanese Four Panel Folding Screen (Landscape with Figure in the Boat)",
+     "isSelected": false,
+      "source": 2,
+      "target": 6,
+      "description": "<p>Material: Japanese Four Panel Folding Screen and Hakone are both works that were created on paper. </p>\n\n<p>Symbol:  These works contain images of mountains.  A symbol of gods and immortality, religious communities have been worshipping near mountains for thousands of years, through the building and maintaining of temples near mountains.  </p>\n\n\n<p>Subject: Both of these works are examples of man in nature, specifically they highlight the movement of man through natural spaces. </p>\n"
+},
+   {
+      "title": "Hakone to Aka Fuji by Hokusai Katsushika",
+     "isSelected": false,
+      "source": 2,
+      "target": 1,
+      "description": "<p>Context: Hakone and Aka Fuji are both members of larger sets of work created by their artists, Hakone is a member of 53 works displaying Tokaido road and Aka Fuji is part of a 46 print set of images of Mount Fuji. </p>\n\n<p>Material: Both of these works were created through a printing process. </p>\n\n<p>Symbol:  Both of these works contain images of mountains. A common image within Japanese art, mountains represent immortality while also serving as hosts to godly spirits.</p>\n"
+},
+   {
+      "title": "Untitled Mountain Landscape with Buildings by Tani Buncho to Japanese Four Panel Folding Screen (Landscape with Figure in the Boat)",
+     "isSelected": false,
+      "source": 3,
+      "target": 6,
+      "description": "<p>Subject: Untitled Mountain Landscape with Buildings and Japanese Four Panel Folding Screen both depict man within the grandness of nature. The panelled work displays with with putting a man on a lake and the hanging scroll nestles buildings into the natural landscape. </p>\n\n<p>Symbol: Japanese Four Panel Folding Screen and Untitled Mountain Landscape with Buildings contain images of evergreens and mountains. Both of these images are religious symbols with evergreens representing rebirth and gods descent, while mountains are seen as symbols of immortality and hosts to godly spirits. </p>\n\n<p>Material: Both of these pieces were created with ink as a medium. The hanging scroll was created on silk and the folding screen was designed on paper.</p>\n"
+},
+   {
+      "title": "Untitled Mountain Landscape with Buildings by Tani Buncho to Aka Fuji by Hokusai Katsushika",
+     "isSelected": false,
+      "source": 3,
+      "target": 1,
+      "description": "<p>Symbol: Aka Fuji and Untitled Mountain Landscape with Buildings contain both images of evergreens and mountains. Both of these images are religious symbols with evergreens representing rebirth and gods descent, while mountains are seen as symbols of immortality and hosts to godly spirits. </p>\n\n\n<p>Context: These works both represent seasonal works, brought out in winter and displayed within the home. </p>"
+},
+   {
+      "title": "Untitled Mountain Landscape with Buildings by Tani Buncho to Hakone",
+     "isSelected": false,
+      "source": 3,
+      "target": 2,
+      "description": "<p>Symbol: These works contain images of mountains, a symbol of gods and immortality. Temples for worship are dotted around mountains to be close to godly spirits when worshipping. </p>\n\n\n<p>Subject Matter: Hakone and Untitled Mountain Landscape with buildings focus on the theme of man in nature, specifically travelling. Hakone focuses is on travellers while the mountain landscape instead has the viewer travel through the landscape with their eyes. </p>\n"
+},
+{
+      "title": "Japanese Bowl to Untitled Woman by Eisen Ikeda",
+  "isSelected": false,
+      "source": 4,
+      "target": 9,
+      "description": "<p>Context: Untitled Woman and Japanese Bowl  both are collectors items, often gathered to become a set of beautiful items. </p>"
+},
+   {
+      "title": "Japanese Bowl to Hakone",
+     "isSelected": false,
+      "source": 4,
+      "target": 2,
+      "description": "<p>Context: Japanese Bowl and Hakone would appear as a member of a larger set, Hakone as a member of 53 works representing the Tokaido road and the Japanese Bowl in a set of other pottery items. </p>"
+   },
+   {
+      "title": "Japanese Bowl to Aka Fuji by Hokusai Katsushika",
+     "isSelected": false,
+      "source": 4,
+      "target": 1,
+      "description": "<p>Context: Aka Fuji and Japanese Bowl are both items that would be collected. Aka Fuji as a member of 46 prints of Mount Fuji by Hokusai Katsushika and Japanese Bowl as a member of a set of tea items. </p>"
+   },
+
+
+   {
+      "title": "Japanese Karatsu Jar to Japanese Bowl",
+     "isSelected": false,
+      "source": 5,
+      "target": 4,
+      "description": "<p>Material: Both works are ceramic works that utilize glaze and gold. </p>"
+},
+   {
+      "title": "Untitled Woman by Kuniyoshi Utagawa to Untitled Woman by Eisen Ikeda",
+     "isSelected": false,
+      "source": 8,
+      "target": 9,
+      "description": "<p>Subject: Both of these works center on women in beautiful dress, a common subject in bijinga works in the Edo period.</p>\n\n\n<p>Material: These women artworks were created using block printing on rice paper. </p>\n\n<p>Context: These works and works similar would be collected to create sets of beautiful women prints. </p>"
+},
+      {
+      "title": "Untitled Woman by Kuniyoshi Utagawa to Japanese Four Panel Folding Screen (Landscape with Figure in the Boat)",
+        "isSelected": false,
+      "source": 8,
+      "target": 6,
+      "description": "<p>Material: Both of these works were created on paper, Untitled woman using block printing and Japanese Four Panel Folding Screen using ink brushwork. </p>\n\n\n\n<p>Subject Matter: These two works display the theme man in nature. Though the scale and placement of the figures differ, both draw attention, creating a conversation between man and nature in the scenes. </p>"
+},
+      {
+      "title": "Untitled Woman by Kuniyoshi Utagawa to Aka Fuji by Hokusai Katsushika",
+        "isSelected": false,
+      "source": 8,
+      "target": 1,
+      "description": "<p>Material: These connected works were both created using printing. Aka Fuji using color printing and Untitled Woman using block print on rice paper. </p>\n\n<p>Context: Both of these works would often be collected as members of a larger set of similar work, either of similar subject matter or from the same artist. </p>"
+      },
+   {
+      "title": "Untitled Woman by Kuniyoshi Utagawa to Hakone",
+     "isSelected": false,
+      "source": 8,
+      "target": 2,
+      "description": "<p>Material: These connected works were both created using block printing on paper. </p>\n\n<p>Subject Matter  Untitled Woman and Hakone display the subject man in nature through their placement of figures within a natural landscape. </p>\n\n<p>Context: Works such as Untitled Woman and Hakone would appear in sets and collections. Untitled Woman would be collected as a member of Ukiyo-e prints of women of varying count. Hakone, however is a member of a set of 53 prints representing the Tokaido route. </p>\n"
+},
+      {
+      "title": "Untitled Woman by Kuniyoshi Utagawa to Untitled Mountain Landscape with Buildings by Tani Buncho",
+        "isSelected": false,
+      "source": 8,
+      "target": 3,
+      "description": "<p>Context: Both of these works would be hung up in a Japanese home as a seasonal work. </p>\n\n\n<p>Subject Matter: These works are examples of man in nature. Untitled Woman displays a lady under a cherry blossom tree and Untitled Mountain Landscape with Buildings contains man made structures nestled within a landscape. </p>"
+      },
+      {
+      "title": "Untitled Woman by Kuniyoshi Utagawa to Japanese Karatsu Jar",
+        "isSelected": false,
+      "source": 8,
+      "target": 5,
+      "description": "<p>Symbol: The Untitled Woman print and Japanese Karatsu Jar contain images of cherry blossoms. A cherished symbol of Japanese history, it represents impermanence and fragility, known in Japan as mono no aware. </p>"
+      },
+
+   {
+      "title": "Untitled Folding Screen by Kano Yoshinobo to Japanese Four Panel Folding Screen (Landscape with Figure in the Boat)",
+     "isSelected": false,
+      "source": 7,
+      "target": 6,
+      "description": "<p>Material: The two works are both paneled screens designed to be folded across certain parts of the work.</p>\n\n<p>Symbol: These works contain images of mountains. Mountains play an important role in Japanese cultural traditions they stand as symbols of immortality and power, along with serving as religious sites for temples and worship.</p>\n"
+},{
+      "title": "Untitled Folding Screen by Kano Yoshinobo to Aka Fuji by Hokusai Katsushika",
+     "isSelected": false,
+      "source": 7,
+      "target": 1,
+      "description": "<p>Subject: Aka Fuji and Untitled Folding Screen by Kano Yoshinobo are examples of seasonal nature works, pieces that exemplify one season over others. </p>\n\n\n\n<p>Symbol: These works contain images of mountains. Mountains play an important role in Japanese cultural traditions they serve as religious sites for religions like Shintoism and Buddhism, as well as stand as symbols of immortality and power.</p>\n"},
+   {
+      "title": "Untitled Folding Screen by Kano Yoshinobo to Hakone",
+     "isSelected": false,
+      "source": 7,
+      "target": 2,
+      "description": "<p>Symbol: These works contain images of mountains, a religious symbol of gods and immortality. It is very typical to see temples from various religions placed around mountains as they are considered very sacred to religions across Japan.  </p>"
+},
+{
+      "title": "Untitled Folding Screen by Kano Yoshinobo to Untitled Mountain Landscape with Buildings by Tani Buncho",
+  "isSelected": false,
+      "source": 7,
+      "target": 3,
+      "description": "<p>Context: The nature screen and Untitled Mountain Landscape with Buildings scroll would be found as seasonal decoration within a Japanese home.</p>\n\n\n<p>Symbol: These works contain images of mountains a religious symbol of gods and immortality. Many temples are built around mountains for worshipers to visit and engage in rituals close to religiously important sites. </p> \n"
+},
+   {
+      "title": "Untitled Folding Screen by Kano Yoshinobo to Japanese Bowl",
+     "isSelected": false,
+      "source": 7,
+      "target": 4,
+      "description": "<p>Material: Both of these works utilize gold detailing. Within the screen gold appears as detailing in the nature scene, and in the bowl gold is used as a binding agent to hold pieces of the bowl together. </p>"
+},
+   {
+      "title": "Untitled Folding Screen by Kano Yoshinobo to Japanese Karatsu Jar",
+      "isSelected": false,
+      "source": 7,
+      "target": 5,
+      "description": "<p>Material: Both of these works utilize gold detailing. Within the screen gold is appearing as detailing in the nature scene, and in the jar gold is placed around the lip of the work to fill in gaps created by age and wear. </p>\n\n<p>Symbol: These works contain images of cherry blossoms which represents fragility (known as mono no aware) and  impermanence. </p>\n"
+},
+   {
+      "title": "Untitled Folding Screen by Kano Yoshinobo to Untitled Woman by Kuniyoshi Utagawa",
+     "isSelected": false,
+      "source": 7,
+      "target": 8,
+      "description": "<p>Context: These works would be brought out in spring or summer as a seasonal piece. </p>\n\n<p>Subject Matter: Both of these works represent seasonal nature, specifically they are designed to represent spring and summer activities and scenes.</p>\n\n<p>Symbolism: The Untitled Woman and Untitled Folding Screen contain images of cherry blossoms. A cherished symbol of Japanese history, it represents impermanence and mono no aware, which roughly translates to fragility. </p>"},
+   {
+     "title": "Untitled Woman by Kuniyoshi Utagawa to Japanese Bowl",
+     "isSelected": false,
+     "source": 8,
+     "target": 4,
+     "description": "<p>Context: Untitled Woman and Japanese Bowl both are collectors items. The Japanese Bowl would serve as a member of a larger tea set while Untitled Woman would be collected with other works representing beautiful women.</p>"
+   }]
+}
+
+
+
+
+
